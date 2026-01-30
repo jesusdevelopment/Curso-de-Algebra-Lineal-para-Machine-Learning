@@ -8,4 +8,8 @@ dependencies:
   - matplotlib
   - seaborn
   - pandas
+  - ipykernel
+  - gensim
+  - ca-certificates
+  - openssl
 prefix: /home/jesusr/anaconda3/envs/Curso-de-Algebra-Lineal-para-Machine-Learning
