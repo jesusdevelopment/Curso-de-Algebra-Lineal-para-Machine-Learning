@@ -1,0 +1,11 @@
+name: Curso-de-Algebra-Lineal-para-Machine-Learning
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+prefix: /home/jesusr/anaconda3/envs/Curso-de-Algebra-Lineal-para-Machine-Learning
