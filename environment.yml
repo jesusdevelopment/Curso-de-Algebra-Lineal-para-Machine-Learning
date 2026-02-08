@@ -12,5 +12,4 @@ dependencies:
   - gensim
   - ca-certificates
   - openssl
-  - scikit-learn
 prefix: /home/jesusr/anaconda3/envs/Curso-de-Algebra-Lineal-para-Machine-Learning
